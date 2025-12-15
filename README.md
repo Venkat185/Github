@@ -1,22 +1,21 @@
 <!-- ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif) -->
-<h1 align="center">Hola! 👋, I'm Tummalapalli hanith</a></h1>
-<h3 align="center">Data Analyst | Developer | Designer</h3>
+<h1 align="center">Hola! 👋, I'm venkat</a></h1>
+<h3 align="center">Data Analyst | Data Engineer | Developer | Designer</h3>
 
 <p>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30">
+  <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanith1362&label=Profile%20views&color=0e75b6&style=flat" alt="hanith" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Venkat185&label=Profile%20views&color=0e75b6&style=flat" alt="Venkat185" />
+</p>
+
+- 📫 How to reach me **venkata.vasabathula.com**
+
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Venkat185">My GitHub Profile</a>
 
 
-- 📫 How to reach me **hanithtummalapalli1362@gmail.com**
-
-- 👨‍💻 All of my projects are available at <a href="https://github.com/hanith1362/">My Github Profile</a>
-
-
-
-[![Linkedin: Tummalapallihanith](https://img.shields.io/badge/-tummalapallihanith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/Tummalapallihanith)](https://www.linkedin.com/in/hanithtummalapalli/)
-[![GitHub hanith1362](https://img.shields.io/github/followers/hanith1362?label=follow&style=social)](https://github.com/hanith1362)
-
+[![LinkedIn: VenkataRatnamVasabathula](https://img.shields.io/badge/-VenkataRatnamVasabathula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)
+[![GitHub Venkat185](https://img.shields.io/github/followers/Venkat185?label=Follow&style=social)](https://github.com/Venkat185)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -61,20 +60,21 @@
 <br>
 <br>
 
-<a align="center" href="">
+<a align="center" href="https://github.com/Venkat185">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hanith1362&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanith1362&langs_count=4&layout=compact&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook,HTML" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Venkat185&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat185&langs_count=4&layout=compact&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook,HTML" alt="languages" height="165">
 </p>
 </a>
 
 <b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b>Windows 11</li>
-	      <li><b>Laptop: </b> Lenovo ideapad Slim 5</li>
-  	    <li><b>Browser: </b> Firefox & Chrome</li>
-	      <li><b>Code Editor:</b> Jupyter Notebook & VSCode ❤</li>
-	</ul>	
-
+  	
+<ul>
+  <li><b>OS:</b> Windows 11 & macOS</li>
+  <li><b>Laptop:</b> MacBook</li>
+  <li><b>Browser:</b> Firefox & Chrome</li>
+  <li><b>Code Editor:</b> Jupyter Notebook & VS Code ❤</li>
+</ul>
 <div align="centre">
 
 ### Show some ❤️ by starring some of the repositories!
